@@ -1,6 +1,5 @@
-import React from "react"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button";
-
-export default function Home() { return ( <main className="flex flex-col items-center justify-center p-4 space-y-8"> <header className="text-center"> <h1 className="text-4xl font-bold text-red-700">Pavichi Global</h1> <p className="text-lg text-green-600 mt-2"> Excellence | Global Presence | Ease | Integrity </p> </header>
+<img src="path_to_image.jpg" alt="Premium Poundo yam flour" />
+<main className="flex flex-col items-center justify-center p-4 space-y-8"> <header className="text-center"> <h1 className="text-4xl font-bold text-red-700">Pavichi Global</h1> <p className="text-lg text-green-600 mt-2"> Excellence | Global Presence | Ease | Integrity </p> </header>
 
 <section className="max-w-3xl text-center">
     <h2 className="text-2xl font-semibold mb-2 text-green-500">Mission</h2>
@@ -62,10 +61,9 @@ export default function Home() { return ( <main className="flex flex-col items-c
       className="p-2 border rounded-md w-full max-w-sm"
     />
     <Button className="mt-2 bg-green-600 hover:bg-green-700 text-white">
-      Subscribe
+      Subscribe: pavichiglobal@gmail.com
     </Button>
   </section>
 </main>
 
-); }
 
