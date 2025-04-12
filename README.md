@@ -1,4 +1,4 @@
-<img src="path_to_image.jpg" alt="Premium Poundo yam flour" />
+<img src="images/logo.png" alt="Pavichi Global Logo" width="200" />
 <main className="flex flex-col items-center justify-center p-4 space-y-8"> <header className="text-center"> <h1 className="text-4xl font-bold text-red-700">Pavichi Global</h1> <p className="text-lg text-green-600 mt-2"> Excellence | Global Presence | Ease | Integrity </p> </header>
 
 <section className="max-w-3xl text-center">
